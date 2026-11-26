@@ -44,8 +44,8 @@ The suggested wiring below matches the Pi2600 / PiSMS reference hardware (same m
 |  | LED | 3V3 | Backlight |
 |  | SCK | GP18 | SPI0 |
 |  | SDI (MOSI) | GP19 | SPI0 |
-|  | DC | GP21 |  |
-|  | RESET | GP20 |  |
+|  | DC | GP20 |  |
+|  | RESET | GP21 |  |
 |  | CS | GP17 |  |
 
 ## 2. MicroSD Card (SPI1)
